@@ -16,7 +16,7 @@
 
 ![Maik Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikProgramador&show_icons=true&theme=radical)
 
-([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikProgramador)]([https://github.com/MaikProgramador/github-readme-stats](https://github.com/MaikProgramador?tab=repositories)))
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikProgramador)]([https://github.com/MaikProgramador/github-readme-stats]))
 
 
 
